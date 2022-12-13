@@ -1,0 +1,9 @@
+Materi PTI
+
+1. Pengenalan Sistem Komputer
+2. Komponen-Komponen Komputer
+3. Sistem Bilangan
+4. Konversi Bilangan
+5. Aplikasi Word I
+6. Aplikasi Word II
+
